@@ -1,0 +1,14 @@
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.exe.config
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.exe
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.pdb
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csprojResolveAssemblyReference.cache
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.exe
+//Mac/Home/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.pdb
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.exe.config
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.exe
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.pdb
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.exe
+/Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.pdb
