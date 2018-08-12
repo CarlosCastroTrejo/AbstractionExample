@@ -12,3 +12,10 @@
 /Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csproj.CoreCompileInputs.cache
 /Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.exe
 /Users/carlosemilianocastrotrejo/Downloads/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.pdb
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.exe.config
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.exe
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/bin/Debug/BoletoDeAvion.pdb
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.exe
+/Users/carlosemilianocastrotrejo/Documents/Tec de Monterrey/3er Semestre/Estructura de Datos/BoletoDeAvion/BoletoDeAvion/obj/x86/Debug/BoletoDeAvion.pdb
